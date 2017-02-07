@@ -1,0 +1,6 @@
+{
+  "name": "Square",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./Square.js"
+}
